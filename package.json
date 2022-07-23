@@ -1,0 +1,23 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "Week 10 project",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schai2009/team-profile-generator.git"
+  },
+  "author": "Steven Chai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schai2009/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/schai2009/team-profile-generator#readme"
+}
