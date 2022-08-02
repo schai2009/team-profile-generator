@@ -16,9 +16,10 @@
 // WHEN I decide to finish building my team
 // THEN I exit the application, and the HTML is generated
 
-const Manager = require('./lib/Manager.js');
-const Engineer = require('./lib/Engineer.js');
-const Intern = require('./lib/Intern.js');
+const Manager = require('./lib/Manager');
+const Engineer = require('./lib/Engineer');
+const Intern = require('./lib/Intern');
+
 const inquirer = require('inquirer');
 const path = require('path');
 const fs = require('fs');
