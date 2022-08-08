@@ -41,6 +41,8 @@ This is a screenshot of the generated HTML webpage.
 
 ![image](https://user-images.githubusercontent.com/101296284/183323662-4fc9f2bb-4021-4613-bec5-a333b2b15548.png)
 
+## Demo Video
+https://github.com/schai2009/team-profile-generator/blob/main/assets/Team%20Profile%20Generator.mp4
 
 ## Credits
 
