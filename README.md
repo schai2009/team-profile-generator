@@ -35,14 +35,14 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 
-Screenshot
+## Screenshot
 
 This is a screenshot of the generated HTML webpage.
 
 ![image](https://user-images.githubusercontent.com/101296284/183323662-4fc9f2bb-4021-4613-bec5-a333b2b15548.png)
 
 
-Credits
+## Credits
 
 NodeJS: https://nodejs.org/en/
 
